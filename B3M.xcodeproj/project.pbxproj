@@ -104,11 +104,11 @@
 			isa = PBXGroup;
 			children = (
 				F685C0B21C371EE400E65C17 /* AppDelegate.swift */,
-				F600D7FF1C3AF79F00957BA8 /* ViewControllers */,
 				F685C0B91C371EE400E65C17 /* Assets.xcassets */,
 				F685C0B61C371EE400E65C17 /* Main.storyboard */,
 				F685C0BB1C371EE400E65C17 /* LaunchScreen.storyboard */,
 				F685C0BE1C371EE400E65C17 /* Info.plist */,
+				F600D7FF1C3AF79F00957BA8 /* ViewControllers */,
 				F685C0C91C372D5D00E65C17 /* Model DAO */,
 			);
 			path = B3M;

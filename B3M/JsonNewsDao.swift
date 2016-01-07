@@ -11,7 +11,7 @@ import Foundation
 
 class JsonNewsDao: NewsDao {
     
-    let apiUrl = NSURL(string: "http://prep-app.com/api/articles/")
+    let apiUrl = NSURL(string: "http://supinfo.com/api/articles/")
     
     func getAllNews(callback: ([News]?)-> Void) {
         
